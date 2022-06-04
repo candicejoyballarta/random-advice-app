@@ -54,5 +54,5 @@ I think it would be great if users can also send their own advice. Maybe adding 
 
 ## Author
 
--   Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/candicejoyballarta)
+-   Frontend Mentor - [@candicejoyballarta](https://www.frontendmentor.io/profile/candicejoyballarta)
 -   Github - [@candicejoyballarta](https://github.com/candicejoyballarta)
