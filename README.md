@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 -   Solution URL: [Github Repository](https://github.com/candicejoyballarta/random-advice-app)
--   Live Site URL: [Random Advice App](https://your-live-site-url.com)
+-   Live Site URL: [Random Advice App](https://random-advice-app.vercel.app/)
 
 ## My process
 
